@@ -1,0 +1,3 @@
+"D:\Program Files\JetBrains\CLion 2021.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\c2_color_triangle.dir/objects.a
+D:\PROGRA~2\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe cr CMakeFiles\c2_color_triangle.dir/objects.a @CMakeFiles\c2_color_triangle.dir\objects1.rsp
+D:\PROGRA~2\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE -g -Wl,--whole-archive CMakeFiles\c2_color_triangle.dir/objects.a -Wl,--no-whole-archive -o c2_color_triangle.exe -Wl,--out-implib,libc2_color_triangle.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\c2_color_triangle.dir\linklibs.rsp
